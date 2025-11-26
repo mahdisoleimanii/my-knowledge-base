@@ -60,9 +60,7 @@ Click a category below to browse the guides.
       </a>
       <br/><br/>
       <ul>
-        <li><a href="docs/devops/docker-compose.md">Docker Compose</a></li>
-        <li><a href="docs/devops/nginx-proxy.md">Nginx Reverse Proxy</a></li>
-        <li><a href="docs/devops/gh-actions.md">GitHub Actions</a></li>
+        <<li><a href=""></a></li>
       </ul>
     </td>
     <td align="center" width="33%">
@@ -72,9 +70,7 @@ Click a category below to browse the guides.
       </a>
       <br/><br/>
       <ul>
-        <li><a href="docs/python/virtual-envs.md">Virtual Environments</a></li>
-        <li><a href="docs/python/poetry-setup.md">Poetry Guide</a></li>
-        <li><a href="docs/python/pandas-snippets.md">Pandas Snippets</a></li>
+        <li><a href=""></a></li>
       </ul>
     </td>
   </tr>
@@ -86,8 +82,7 @@ Click a category below to browse the guides.
       </a>
       <br/><br/>
       <ul>
-        <li><a href="docs/windows/wsl2-config.md">WSL2 Configuration</a></li>
-        <li><a href="docs/windows/terminal-themes.md">Terminal Themes</a></li>
+        <li><a href=""></a></li>
       </ul>
     </td>
     <td align="center" width="33%">
@@ -97,8 +92,7 @@ Click a category below to browse the guides.
       </a>
       <br/><br/>
       <ul>
-        <li><a href="docs/tools/git-cheatsheet.md">Git Cheatsheet</a></li>
-        <li><a href="docs/tools/vscode-settings.md">VS Code Config</a></li>
+        <li><a href=""></a></li>
       </ul>
     </td>
     <td align="center" width="33%">
@@ -108,8 +102,7 @@ Click a category below to browse the guides.
       </a>
       <br/><br/>
       <ul>
-        <li><a href="docs/notes/markdown-tips.md">Markdown Tricks</a></li>
-        <li><a href="docs/notes/ideas.md">Project Ideas</a></li>
+        <li><a href=""></a></li>
       </ul>
     </td>
   </tr>
@@ -122,17 +115,6 @@ Click a category below to browse the guides.
 For small commands that don't need a full guide:
 
 <details>
-<summary><b>Git: Undo last commit (keep changes)</b></summary>
-
-```bash
-git reset --soft HEAD~1
-```
-</details>
-
-<details>
-<summary><b>Docker: Kill all running containers</b></summary>
-
-```bash
-docker kill $(docker ps -q)
-```
+<summary><b></b></summary>
+  
 </details>
