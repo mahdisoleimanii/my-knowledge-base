@@ -60,7 +60,7 @@ Click a category below to browse the guides.
       </a>
       <br/><br/>
       <ul>
-        <<li><a href=""></a></li>
+        <li><a href=""></a></li>
       </ul>
     </td>
     <td align="center" width="33%">
