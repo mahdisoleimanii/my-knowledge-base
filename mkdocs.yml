@@ -1,0 +1,16 @@
+site_name: Mahdi's Digital Garden
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: teal
+    accent: purple
+
+docs_dir: docs
+
+nav:
+  - Home: index.md
+  - Linux:
+      - Introduction: linux/index.md
+      - 'Ubuntu Setup': linux/ubuntu-setup.md
+      - 'Portable Install': linux/portable-install.md
