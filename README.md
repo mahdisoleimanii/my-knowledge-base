@@ -54,13 +54,13 @@ Click a category below to browse the guides.
       </ul>
     </td>
     <td align="center" width="33%">
-      <h3>🐳 DevOps</h3>
-      <a href="docs/devops/index.md">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <h3>📱 Android</h3>
+      <a href="docs/android/index.md">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       </a>
       <br/><br/>
       <ul>
-        <li><a href=""></a></li>
+        <li><a href="docs/android/lineage-os.md">Lineage OS Installation</a></li>
       </ul>
     </td>
     <td align="center" width="33%">
